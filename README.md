@@ -24,11 +24,6 @@ This web application is a note taker used to create, save and delete notes
 - On load the app will display a home page with a link to the notes
 - The note page allow a user to view , create or delete notes
 
-![](./screenshots/Screenshot-1.png)
-![](./screenshots/Screenshot-2.png)
-![](./screenshots/Screenshot-3.png)
-![](./screenshots/Screenshot-4.png)
-![](./screenshots/Screenshot-5.png)
 
 
 
