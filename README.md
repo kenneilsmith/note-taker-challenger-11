@@ -17,7 +17,7 @@ This web application is a note taker used to create, save and delete notes
 
 ## Usage
 
-- click the link - (https://kenneilsmith.github.io/note-taker-challenger-11/))
+- click the link - (https://kenneilsmith.github.io/note-taker-challenger-11/)
 
 ## Features
 
