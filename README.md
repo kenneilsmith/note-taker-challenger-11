@@ -21,9 +21,8 @@ This web application is a note taker used to create, save and delete notes
 
 ## Features
 
-- On load the app request the current location of the user and displays the current weather and 5 days forecast
-- The user can search for a specific city and that city's current weather and 5 days forecast will be displayed
-- The previous 10 searched cities can be accessed for fast search
+- On load the app will display a home page with a link to the notes
+- The note page allow a user to view , create or delete notes
 
 ![](./screenshots/Screenshot-1.png)
 ![](./screenshots/Screenshot-2.png)
