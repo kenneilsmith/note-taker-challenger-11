@@ -17,7 +17,7 @@ This web application is a note taker used to create, save and delete notes
 
 ## Usage
 
-- click the link - (https://kenneilsmith.github.io/note-taker-challenger-11/)
+- I do not have access to Heroku to deploy my project
 
 ## Features
 
@@ -43,4 +43,4 @@ This project is licensed under the MIT License.
 
 
 Damian Smith - damiansmith61@gmail.com \
-Project Link: https://github.com/kenneilsmith/
+Project Link: https://github.com/kenneilsmith/note-taker-challenger-11
