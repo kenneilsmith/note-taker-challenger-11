@@ -18,6 +18,7 @@ This web application is a note taker used to create, save and delete notes
 ## Usage
 
 - I do not have access to Heroku to deploy my project
+- video link - https://drive.google.com/file/d/1JrhP_-L8Mjunywy82pfXf_9yzhKvlW20/view
 
 ## Features
 
