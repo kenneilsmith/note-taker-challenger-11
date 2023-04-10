@@ -17,7 +17,7 @@ This web application is a note taker used to create, save and delete notes
 
 ## Usage
 
-- Heroku Deployment - https://glacial-crag-00459.herokuapp.com/
+- Heroku deploy link - https://glacial-crag-00459.herokuapp.com/
 
 ## Features
 
